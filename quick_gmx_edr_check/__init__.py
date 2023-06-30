@@ -1,0 +1,1 @@
+from quick_gmx_edr_check.gmx_energy import GMXEnergy
